@@ -1,4 +1,4 @@
-# Line-Notify--Google-Calendar
+# Line Notify Google Calendar
 สร้าง Line Notify แจ้งเตือน Google Calendar
 
 > อ้างอิงจากเว็บไซต์ https://adamblog.co/line-notify-google-calendar/
